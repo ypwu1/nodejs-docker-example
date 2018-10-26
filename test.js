@@ -7,8 +7,8 @@ describe('String#split', function(){
 });
 
 
-describe('add operation', function(){
-  it('should return an array', function(){
-    expect(true).toEqual(true);
+describe('1 + 1', function(){
+  it('returns 2', function(){
+    expect(1 + 1).toEqual(2);
   });
 });
