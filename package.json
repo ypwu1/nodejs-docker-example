@@ -1,9 +1,9 @@
 {
   "name": "nodejs-docker-example",
   "scripts": {
-    "test": "mocha ./test.js"
+    "test": "jest ./test.js"
   },
   "devDependencies": {
-    "mocha": "5.2.0"
+    "jest": "^23.6.0"
   }
 }
